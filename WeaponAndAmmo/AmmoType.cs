@@ -1,0 +1,1 @@
+﻿public enum AmmoType {pistolBullets, shotgunBullets, sniperBullets}
