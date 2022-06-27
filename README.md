@@ -1,7 +1,7 @@
 # Forgotten-Cowboys 
 
-Forgotten Cowboys is a action horror game based on course
-https://www.udemy.com/course/unitycourse2/
+Forgotten Cowboys is a action horror game. The part of it was created with course
+https://www.udemy.com/course/unitycourse2/.
 
 During this course I have learned about diffrent functionalities of Unity engine like: 
 * Programming in C#
