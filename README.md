@@ -20,6 +20,6 @@ https://youtu.be/g7620eGOFfA
 
 # Screenshots
 
-<img src="https://user-images.githubusercontent.com/69191839/175764694-25a6dfe3-f9dc-4a5c-ae7e-2bab9f8eed60.png" width="891" height="500">
-<img src="https://user-images.githubusercontent.com/69191839/175764697-b09793dd-1a6e-46f6-aec2-b779c066970f.png" width="891" height="500">
-<img src="https://user-images.githubusercontent.com/69191839/175764698-a75ea7bb-4f86-44c9-aa9b-51233df91491.png" width="891" height="500">
+<img src="https://user-images.githubusercontent.com/69191839/185053754-fc7981e5-d923-4d43-a897-d3c8bcbe832f.png" width="891" height="500">
+<img src="https://user-images.githubusercontent.com/69191839/185053765-eb6c6dd3-9e59-49c3-9946-bc3ef5d24045.png" width="891" height="500">
+<img src="https://user-images.githubusercontent.com/69191839/185053780-9cb9a860-7a7e-4c75-8d87-876e3be188b5.png" width="891" height="500">
