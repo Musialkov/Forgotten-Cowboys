@@ -1,7 +1,7 @@
 # Forgotten-Cowboys 
 
 Forgotten Cowboys is a action horror game. The part of it was created with course
-https://www.udemy.com/course/unitycourse2/.
+https://www.udemy.com/course/unitycourse2/
 
 During this course I have learned about diffrent functionalities of Unity engine like: 
 * Programming in C#
@@ -17,6 +17,9 @@ After completing the course, I added a few features made by me to the project su
 
 Here is the final show of my project:
 https://youtu.be/g7620eGOFfA
+
+You can download game from here:
+https://musialkov.itch.io/forgotten-cobwoys
 
 # Screenshots
 
